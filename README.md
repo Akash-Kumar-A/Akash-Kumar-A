@@ -4,6 +4,7 @@
 <p align="left">
 <a href="https://x.com/akashhh_kumar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devjtwt786" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akashkumar9791303028/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-jain" height="30" width="40" /></a>
+<a href="https://www.instagram.com/akashhh_kumar_/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/555/original/instagram-logo-instagram-logo-transparent-instagram-icon-transparent-free-free-png.png" alt="dev-jain" height="40" width="40" /></a>
 </a>
 </p>
 
