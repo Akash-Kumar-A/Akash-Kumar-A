@@ -1,4 +1,6 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm AKASH KUMAR!
+# Hey 
+[![](https://github.com/Akash-Kumar-A/ishandutta2007/blob/main/chat.svg)]
+
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
 
