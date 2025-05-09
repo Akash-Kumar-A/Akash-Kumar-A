@@ -1,5 +1,5 @@
 # Hey 
-[![](https://github.com/Akash-Kumar-A/ishandutta2007/blob/main/chat.svg)]
+![](chat.svg)
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
