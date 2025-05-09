@@ -1,4 +1,5 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm AKASH KUMAR!
+> "Talk is cheap. Show me the code." – Linus Torvalds
 
 
 <p align="left">
@@ -6,6 +7,15 @@
 <a href="https://www.linkedin.com/in/akashkumar9791303028/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-jain" height="30" width="40" /></a>
 <a href="https://www.instagram.com/akashhh_kumar_/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/555/original/instagram-logo-instagram-logo-transparent-instagram-icon-transparent-free-free-png.png" alt="dev-jain" height="40" width="40" /></a>
 </a>
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Passionate+About+Code;Always+Learning;Keep+Calm+and+Code+On" alt="Typing SVG" />
+</div>
+<div align="center">
+
 </p>
 
 
@@ -22,6 +32,14 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+###  Data Analytics
+<p>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-%2344A833.svg?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" />
+</p>
 
 
 ### Design:
@@ -44,7 +62,16 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Kumar-A&theme=calm" />
 </p>
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akash-Kumar-A&theme=radical" alt="GitHub Trophies" />
+</div>
 
+
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <p>Visitor Count</p>
+  <img src="https://profile-counter.glitch.me/Akash-Kumar-A/count.svg" alt="Profile Visitor Count" />
+</div>
 
 
 
