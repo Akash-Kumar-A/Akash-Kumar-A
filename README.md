@@ -1,4 +1,4 @@
-# Hey 
+# Hey there👋
 ![](chat.svg)
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
