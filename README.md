@@ -26,7 +26,7 @@
 ## About Me
 🎓 pursuing M.Sc Integrated Data Science at PSG COLLEGE OF TECHNOLOGY.<br/>
 👨‍💻 I am passionate about Data Science, Machine Learning and I keep learning new things.</br>
-📖 I am currently learning Gen-Ai <br/>
+📖 I am currently learning AI AGENTS <br/>
 📬 You can contact me through email - akashkumar060303@gmail.com
 
 ## Technologies
