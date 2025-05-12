@@ -41,6 +41,10 @@
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-%2344A833.svg?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter" alt="Jupyternotebook" />
+  <img src="https://img.shields.io/badge/PyTorch-1.6.0-EE4C2C.svg?style=flat&logo=pytorch" alt="Pytorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow" alt="tensorflow" />
+  <img src="https://img.shields.io/badge/Streamlit-1.2.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
 
@@ -50,6 +54,7 @@
 ### Cloud & Development Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2b3137?style=for-the-badge&logo=playwright&logoColor=45ba4b)
 
 
 
@@ -78,7 +83,8 @@
 </div>
 
 
-
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
