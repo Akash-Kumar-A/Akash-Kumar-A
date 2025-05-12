@@ -64,6 +64,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Kumar-A&theme=calm" />
 </p>
 
+<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akash-Kumar-A&theme=radical" alt="GitHub Trophies" />
