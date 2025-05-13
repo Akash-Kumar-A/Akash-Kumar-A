@@ -68,7 +68,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash-Kumar-A&show_icons=true&theme=calm" />
 </p>
 
-<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+[![github contribution grid snake animation](https://raw.githubusercontent.com/Brainhub24/Brainhub24/main/github-contribution-grid-snake.svg)](https://github.com/Brainhub24)
 
 ## 🏆 GitHub Trophies
 <div align="center">
