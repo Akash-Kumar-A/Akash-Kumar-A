@@ -78,7 +78,7 @@
 
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/Akash-Kumar-A/count.svg" alt="Profile Visitor Count" />
+	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Kumar-A&" alt="Akash-Kumar-A" /></p>
 </div>
 
 
