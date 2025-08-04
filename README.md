@@ -22,7 +22,6 @@
 
 
 
-
 ## About Me
 🎓 pursuing M.Sc Integrated Data Science at PSG COLLEGE OF TECHNOLOGY.<br/>
 👨‍💻 I am passionate about Data Science, Machine Learning and I keep learning new things.</br>
