@@ -56,29 +56,7 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2b3137?style=for-the-badge&logo=playwright&logoColor=45ba4b)
 
 
-
-
-
-
-## GitHub Stats
-
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akash-Kumar-A&show_icons=true&theme=calm" />
-</p>
-
 [![github contribution grid snake animation](https://raw.githubusercontent.com/Brainhub24/Brainhub24/main/github-contribution-grid-snake.svg)](https://github.com/Brainhub24)
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akash-Kumar-A&theme=radical" alt="GitHub Trophies" />
-</div>
-
-
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <p>Visitor Count</p>
-	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Kumar-A&" alt="Akash-Kumar-A" /></p>
-</div>
 
 
 ## 😂 Here is a random joke that'll make you laugh!
