@@ -319,8 +319,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> EX AI/ML Intern at C-DAC and CBOTS Solutions </text>    
+    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27"> Previously interned at CBOTS SOLUTIONS - Coimbatore </text>  
+    <text x="15" y="50"> C - DAC, HPC Division - PUNE </text>
   </g>
 
 
