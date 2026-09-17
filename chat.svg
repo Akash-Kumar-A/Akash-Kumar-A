@@ -319,7 +319,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27"> EX AI/ML Intern at C-DAC and CBOTS Solutions </text>    
   </g>
 
